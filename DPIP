@@ -1,0 +1,206 @@
+[
+  {
+    "route":"WEL",
+    "direction":0,
+    "NextStop":1,
+    "Chi":"歡迎乘搭星捷運輸",
+    "ChiSoundId":"",
+    "Eng":"WELCOME ONBOARD\nCR TRANSIT",
+    "EngSoundId":"",
+    "Notification":0
+  },
+  {
+
+  },
+  {
+    "route":"S1",
+    "direction":0,
+    "NextStop":1,
+    "Chi":"歡迎乘搭星捷運輸",
+    "ChiSoundId":"",
+    "Eng":"WELCOME ONBOARDn/CR TRANSIT",
+    "EngSoundId":"",
+    "Notification":0
+  },
+  {
+  },
+  {
+    "route":"S1",
+    "direction":0,
+    "NextStop":2,
+    "Chi":"平景轉車站",
+    "ChiSoundId":"",
+    "Eng":"PING KING BBI",
+    "EngSoundId":"",
+    "Notification":1
+  },
+  {
+    "route":"S1",
+    "direction":,
+    "NextStop":3,
+    "Chi":"百達大廈",
+    "ChiSoundId":"",
+    "Eng":"PATTER HOUSE",
+    "EngSoundId":"",
+    "Notification":1
+  },
+  {
+    "route":"S1",
+    "direction":0,
+    "NextStop":4,
+    "Chi":"峻瀅",
+    "ChiSoundId":"",
+    "Eng":"THE BEAUMOUNT",
+    "EngSoundId":"",
+    "Notification":1 
+  },
+  {
+    "route":"S1",
+    "direction":0,
+    "NextStop":5,
+    "Chi":"平興街市",
+    "ChiSoundId":"",
+    "Eng":"PING HING MARKET",
+    "EngSoundId":"",
+    "Notification":1
+  },
+  {
+    "route":"S1",
+    "direction":0,
+    "NextStop":6,
+    "Chi":"和平紀念碑 - 平石",
+    "ChiSoundId":"",
+    "Eng":"THE CENOTAPHn\PING SHEK",
+    "EngSoundId":"",
+    "Notification":1
+  },
+  {
+    "route":"S1",
+    "direction":0,
+    "NextStop":7,
+    "Chi":"睿巒巴士總站",
+    "ChiSoundId":"",
+    "Eng":"PARK SOCA\nBUS TERMINUS",
+    "EngSoundId":"",
+    "Notification":1
+  },
+  {
+    "route":"22",
+    "direction":0,
+    "NextStop":10,
+    "Chi":"多謝選乘星捷運輸",
+    "ChiSoundId":"",
+    "Eng":"THANK YOU\nFOR TRAVELLING",
+    "EngSoundId":"",
+    "Notification":0
+  },
+  {
+    "route":"22",
+    "direction":1,
+    "NextStop":1,
+    "Chi":"歡迎乘搭豬怕巴士",
+    "ChiSoundId":"rbxassetid://12325302256",
+    "Eng":"WELCOME ONBOARD",
+    "EngSoundId":"",
+    "Notification":0
+  },
+  {
+    "route":"22",
+    "direction":1,
+    "NextStop":2,
+    "Chi":"歡迎乘搭豬怕巴士",
+    "ChiSoundId":"rbxassetid://12325244153",
+    "Eng":"WELCOME ONBOARD",
+    "EngSoundId":"rbxassetid://12300410514",
+    "Notification":0
+  },
+  {
+    "route":"22",
+    "direction":1,
+    "NextStop":3,
+    "Chi":"百合臺",
+    "ChiSoundId":"rbxassetid://12257699910",
+    "Eng":"LILY TERRACE",
+    "EngSoundId":"rbxassetid://12257520371",
+    "Notification":1
+  },
+  {
+    "route":"22",
+    "direction":1,
+    "NextStop":4,
+    "Chi":"沙嶺圍邨",
+    "ChiSoundId":"rbxassetid://12257698213",
+    "Eng":"SHA LENG WAI\nESTATE",
+    "EngSoundId":"rbxassetid://12257518897",
+    "Notification":1
+  },
+  {
+    "route":"22",
+    "direction":1,
+    "NextStop":5,
+    "Chi":"沙嶺圍廣場",
+    "ChiSoundId":"rbxassetid://12257697772",
+    "Eng":"SHA LENG WAI\nSQUARE",
+    "EngSoundId":"rbxassetid://12257519004",
+    "Notification":1
+  },
+  {
+    "route":"22",
+    "direction":1,
+    "NextStop":6,
+    "Chi":"馬嶺圍",
+    "ChiSoundId":"rbxassetid://12257699504",
+    "Eng":"MA LENG WAI",
+    "EngSoundId":"rbxassetid://12257519854",
+    "Notification":1
+  },
+  {
+    "route":"22",
+    "direction":1,
+    "NextStop":7,
+    "Chi":"馬嶺邨",
+    "ChiSoundId":"rbxassetid://12257699645",
+    "Eng":"MA LENG ESTATE",
+    "EngSoundId":"rbxassetid://12257519966",
+    "Notification":1
+  },
+  {
+    "route":"22",
+    "direction":1,
+    "NextStop":8,
+    "Chi":"馬嶺站",
+    "ChiSoundId":"rbxassetid://12257709138",
+    "Eng":"MA LENG STATION",
+    "EngSoundId":"rbxassetid://12257520094",
+    "Notification":1
+  },
+  {
+    "route":"22",
+    "direction":1,
+    "NextStop":9,
+    "Chi":"皇后徑",
+    "ChiSoundId":"rbxassetid://12257701416",
+    "Eng":"EMPRESS RISE",
+    "EngSoundId":"rbxassetid://12257523335",
+    "Notification":1
+  },
+  {
+    "route":"22",
+    "direction":1,
+    "NextStop":10,
+    "Chi":"大新中心",
+    "ChiSoundId":"rbxassetid://12257708933",
+    "Eng":"TAI SUN CENTRE",
+    "EngSoundId":"rbxassetid://12257518701",
+    "Notification":1
+  },
+  {
+    "route":"22",
+    "direction":1,
+    "NextStop":11,
+    "Chi":"多謝選乘豬怕巴士",
+    "ChiSoundId":"rbxassetid://12285327650",
+    "Eng":"THANK YOU\nFOR TRAVELLING",
+    "EngSoundId":"rbxassetid://12285327925",
+    "Notification":0
+  },
