@@ -25,15 +25,15 @@
   },
   {
     "number": 2,
-    "route": "22C",
-    "destZ": "馬嶺站",
-    "destY": "沙嶺墳場",
+    "route": "S1",
+    "destZ": "平興街市",
+    "destY": "睿巒",
     "maxPZ": "1",
-    "priceZ1": "5.6",
-    "halfpriceZ1": "2.8",
+    "priceZ1": "4.6",
+    "halfpriceZ1": "2.3",
     "maxPY": "1",
-    "priceY1": "5.6",
-    "halfpriceY1": "2.8"
+    "priceY1": "4.6",
+    "halfpriceY1": "2.3"
   },
   {
     "number": 3,
