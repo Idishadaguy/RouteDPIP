@@ -23,8 +23,6 @@
     "Notification":0
   },
   {
-  },
-  {
     "route":"S1",
     "direction":0,
     "NextStop":2,
