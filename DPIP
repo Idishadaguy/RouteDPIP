@@ -66,9 +66,9 @@
     "route":"S1",
     "direction":0,
     "NextStop":6,
-    "Chi":"和平紀念碑 - 平石",
+    "Chi":"平毅街總站",
     "ChiSoundId":"",
-    "Eng":"THE CENOTAPHn\PING SHEK",
+    "Eng":"PING NGA STREETn\BUS TERMINUS",
     "EngSoundId":"",
     "Notification":1
   },
@@ -83,14 +83,17 @@
     "Notification":1
   },
   {
-    "route":"22",
+    "route":"S1",
     "direction":0,
-    "NextStop":10,
+    "NextStop":8,
     "Chi":"多謝選乘星捷運輸",
     "ChiSoundId":"",
     "Eng":"THANK YOU\nFOR TRAVELLING",
     "EngSoundId":"",
     "Notification":0
+  },
+  {
+
   },
   {
     "route":"22",
