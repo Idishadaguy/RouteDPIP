@@ -1,7 +1,7 @@
 [
   {
     "route":"WEL",
-    "direction":0,
+    "direction":1,
     "NextStop":1,
     "Chi":"歡迎乘搭星捷運輸",
     "ChiSoundId":"",
@@ -14,7 +14,7 @@
   },
   {
     "route":"S1",
-    "direction":0,
+    "direction":1,
     "NextStop":1,
     "Chi":"歡迎乘搭星捷運輸",
     "ChiSoundId":"",
@@ -24,7 +24,7 @@
   },
   {
     "route":"S1",
-    "direction":0,
+    "direction":1,
     "NextStop":2,
     "Chi":"平景轉車站",
     "ChiSoundId":"",
@@ -34,7 +34,7 @@
   },
   {
     "route":"S1",
-    "direction":,
+    "direction":1,
     "NextStop":3,
     "Chi":"百達大廈",
     "ChiSoundId":"",
@@ -44,7 +44,7 @@
   },
   {
     "route":"S1",
-    "direction":0,
+    "direction":1,
     "NextStop":4,
     "Chi":"峻瀅",
     "ChiSoundId":"",
@@ -54,7 +54,7 @@
   },
   {
     "route":"S1",
-    "direction":0,
+    "direction":1,
     "NextStop":5,
     "Chi":"平興街市",
     "ChiSoundId":"",
@@ -64,7 +64,7 @@
   },
   {
     "route":"S1",
-    "direction":0,
+    "direction":1,
     "NextStop":6,
     "Chi":"平毅街總站",
     "ChiSoundId":"",
@@ -74,7 +74,7 @@
   },
   {
     "route":"S1",
-    "direction":0,
+    "direction":1,
     "NextStop":7,
     "Chi":"睿巒巴士總站",
     "ChiSoundId":"",
@@ -84,7 +84,7 @@
   },
   {
     "route":"S1",
-    "direction":0,
+    "direction":1,
     "NextStop":8,
     "Chi":"多謝選乘星捷運輸",
     "ChiSoundId":"",
