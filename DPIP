@@ -1,3 +1,98 @@
+[
+  {
+    "route":"WEL",
+    "direction":1,
+    "NextStop":1,
+    "Chi":"歡迎乘搭星捷運輸",
+    "ChiSoundId":"",
+    "Eng":"WELCOME ONBOARD\nCR TRANSIT",
+    "EngSoundId":"",
+    "Notification":0
+  },
+  {
+
+  },
+  {
+    "route":"S1",
+    "direction":1,
+    "NextStop":1,
+    "Chi":"歡迎乘搭星捷運輸",
+    "ChiSoundId":"",
+    "Eng":"WELCOME ONBOARDn/CR TRANSIT",
+    "EngSoundId":"",
+    "Notification":0
+  },
+  {
+    "route":"S1",
+    "direction":1,
+    "NextStop":2,
+    "Chi":"平景轉車站",
+    "ChiSoundId":"",
+    "Eng":"PING KING BBI",
+    "EngSoundId":"",
+    "Notification":1
+  },
+  {
+    "route":"S1",
+    "direction":1,
+    "NextStop":3,
+    "Chi":"百達大廈",
+    "ChiSoundId":"",
+    "Eng":"PATTER HOUSE",
+    "EngSoundId":"",
+    "Notification":1
+  },
+  {
+    "route":"S1",
+    "direction":1,
+    "NextStop":4,
+    "Chi":"峻瀅",
+    "ChiSoundId":"",
+    "Eng":"THE BEAUMOUNT",
+    "EngSoundId":"",
+    "Notification":1 
+  },
+  {
+    "route":"S1",
+    "direction":1,
+    "NextStop":5,
+    "Chi":"平興街市",
+    "ChiSoundId":"",
+    "Eng":"PING HING MARKET",
+    "EngSoundId":"",
+    "Notification":1
+  },
+  {
+    "route":"S1",
+    "direction":1,
+    "NextStop":6,
+    "Chi":"平毅街總站",
+    "ChiSoundId":"",
+    "Eng":"PING NGA STREETn\BUS TERMINUS",
+    "EngSoundId":"",
+    "Notification":1
+  },
+  {
+    "route":"S1",
+    "direction":1,
+    "NextStop":7,
+    "Chi":"睿巒巴士總站",
+    "ChiSoundId":"",
+    "Eng":"PARK SOCA\nBUS TERMINUS",
+    "EngSoundId":"",
+    "Notification":1
+  },
+  {
+    "route":"S1",
+    "direction":1,
+    "NextStop":8,
+    "Chi":"多謝選乘星捷運輸",
+    "ChiSoundId":"",
+    "Eng":"THANK YOU\nFOR TRAVELLING",
+    "EngSoundId":"",
+    "Notification":0
+  },
+  {
 
   },
   {
